@@ -1,0 +1,178 @@
+[
+  {
+    "name": "Fist",
+    "imageUrl": "http://localhost:9000/icons/icon-95.png",
+    "twoHanded": false,
+    "ranged": false,
+    "attack": 0
+  },
+  {
+    "name": "Wooden Waster",
+    "imageUrl": "http://localhost:9000/icons/icon-80.png",
+    "twoHanded": false,
+    "ranged": false,
+    "attack": 5
+  },
+  {
+    "name": "Staff",
+    "imageUrl": "http://localhost:9000/icons/icon-103.png",
+    "twoHanded": true,
+    "ranged": false,
+    "attack": 10
+  },
+  {
+    "name": "Spiked Club",
+    "imageUrl": "http://localhost:9000/icons/icon-93.png",
+    "twoHanded": false,
+    "ranged": false,
+    "attack": 20
+  },
+  {
+    "name": "Dagger",
+    "imageUrl": "http://localhost:9000/icons/icon-86.png",
+    "twoHanded": false,
+    "ranged": false,
+    "attack": 10
+  },
+  {
+    "name": "Broad Dagger",
+    "imageUrl": "http://localhost:9000/icons/icon-87.png",
+    "twoHanded": false,
+    "ranged": false,
+    "attack": 20
+  },
+  {
+    "name": "Sai",
+    "imageUrl": "http://localhost:9000/icons/icon-88.png",
+    "twoHanded": false,
+    "ranged": false,
+    "attack": 20
+  },
+  {
+    "name": "Longsword",
+    "imageUrl": "http://localhost:9000/icons/icon-81.png",
+    "twoHanded": true,
+    "ranged": false,
+    "attack": 15
+  },
+  {
+    "name": "Katana",
+    "imageUrl": "http://localhost:9000/icons/icon-83.png",
+    "twoHanded": true,
+    "ranged": false,
+    "attack": 20
+  },
+  {
+    "name": "Gladius",
+    "imageUrl": "http://localhost:9000/icons/icon-84.png",
+    "twoHanded": false,
+    "ranged": false,
+    "attack": 25
+  },
+  {
+    "name": "Saber",
+    "imageUrl": "http://localhost:9000/icons/icon-85.png",
+    "twoHanded": false,
+    "ranged": false,
+    "attack": 30
+  },
+  {
+    "name": "Enchanted Sword",
+    "imageUrl": "http://localhost:9000/icons/icon-82.png",
+    "ranged": false,
+    "twoHanded": false,
+    "attack": 40
+  },
+  {
+    "name": "Dual Swords",
+    "imageUrl": "http://localhost:9000/icons/icon-89.png",
+    "twoHanded": true,
+    "ranged": false,
+    "attack": 50
+  },
+  {
+    "name": "War Axe",
+    "imageUrl": "http://localhost:9000/icons/icon-90.png",
+    "twoHanded": false,
+    "ranged": false,
+    "attack": 25
+  },
+  {
+    "name": "Battle Axe",
+    "imageUrl": "http://localhost:9000/icons/icon-91.png",
+    "twoHanded": true,
+    "ranged": false,
+    "attack": 50
+  },
+  {
+    "name": "Whip",
+    "imageUrl": "http://localhost:9000/icons/icon-94.png",
+    "twoHanded": false,
+    "ranged": false,
+    "attack": 20
+  },
+  {
+    "name": "Flail",
+    "imageUrl": "http://localhost:9000/icons/icon-92.png",
+    "twoHanded": false,
+    "ranged": false,
+    "attack": 25
+  },
+  {
+    "name": "Boomerang",
+    "imageUrl": "http://localhost:9000/icons/icon-102.png",
+    "twoHanded": false,
+    "ranged": true,
+    "attack": 10
+  },
+  {
+    "name": "Slingshot",
+    "imageUrl": "http://localhost:9000/icons/icon-101.png",
+    "twoHanded": true,
+    "ranged": true,
+    "attack": 20
+  },
+  {
+    "name": "Bow",
+    "imageUrl": "http://localhost:9000/icons/icon-99.png",
+    "twoHanded": true,
+    "ranged": true,
+    "attack": 30
+  },
+  {
+    "name": "Crossbow",
+    "imageUrl": "http://localhost:9000/icons/icon-100.png",
+    "twoHanded": true,
+    "ranged": true,
+    "attack": 40
+  },
+
+  {
+    "name": "Water Staff",
+    "imageUrl": "http://localhost:9000/icons/icon-104.png",
+    "twoHanded": false,
+    "ranged": true,
+    "attack": null
+  },
+  {
+    "name": "Fire Staff",
+    "imageUrl": "http://localhost:9000/icons/icon-105.png",
+    "twoHanded": false,
+    "ranged": true,
+    "attack": null
+  },
+  {
+    "name": "Earth Staff",
+    "imageUrl": "http://localhost:9000/icons/icon-106.png",
+    "twoHanded": false,
+    "ranged": true,
+    "attack": null
+  },
+  {
+    "name": "Air Staff",
+    "imageUrl": "http://localhost:9000/icons/icon-107.png",
+    "twoHanded": false,
+    "ranged": true,
+    "attack": null
+  }
+]
