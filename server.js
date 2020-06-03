@@ -11,7 +11,7 @@ let {serverError, notFoundError} = require('./error-middleware.js')
 app.use(serverError)
 app.use(notFoundError)
 
-let server = app.listen(9000)
+let server = app.listen(process.env.PORT)
 
 server.on('listening', ()=> console.log("Listening"))
 server.on('error', error=> console.error(error))
