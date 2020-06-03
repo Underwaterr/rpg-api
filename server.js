@@ -1,6 +1,12 @@
 let express = require('express')
 let app = new express()
 
+let helmet = require('helmet')
+app.use(helmet())
+
+let compression = require('compression')
+app.use(compression())
+
 let router = require('./router')
 app.use(router)
 
