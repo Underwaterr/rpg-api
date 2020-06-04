@@ -1,9 +1,18 @@
 <div id="app">
   <h1>RPG API</h1>
+
+  <h2>Weapons</h2>
+  <ul>
+    <li v-for="item in weapons"> 
+      <img :src="item.imageUrl">
+      {{item.name}} 
+    </li>
+  </ul>
+
   <h2>Armor</h2>
   <ul>
     <li v-for="item in armor"> 
-      <img :src=" 'http://localhost:9000/icons/icon-' + item.imageId + '.png' ">
+      <img :src="item.imageUrl">
       {{item.name}} 
     </li>
   </ul>
@@ -15,13 +24,25 @@
     el: "#app",
     data() {
       return {
-        armor: []
+        weapons: [],
+        armor: [],
+        accessories: []
       }
     },
     created() {
+      fetch('/weapons')
+        .then(response=> response.json())
+        .then(data=> this.weapons = data)
+        .catch(error=> console.error(error))
+
       fetch('/armor')
         .then(response=> response.json())
         .then(data=> this.armor = data)
+        .catch(error=> console.error(error))
+
+      fetch('/accessories')
+        .then(response=> response.json())
+        .then(data=> this.accessories = data)
         .catch(error=> console.error(error))
     }
   })

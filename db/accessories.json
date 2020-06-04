@@ -1,10 +1,10 @@
 [
-  {"name": "Belt", "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-112.png"},
-  {"name": "Cloak", "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-112.png"},
-  {"name": "Leather Pouch", "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-137.png"},
-  {"name": "Ring", "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-132.png"},
-  {"name": "Diamond Ring", "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-133.png"},
-  {"name": "Necklace", "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-134.png"},
-  {"name": "Prayer Beads", "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-135.png"},
-  {"name": "Tribal Necklace", "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-136.png"}
+  {"name": "Belt", "imageUrl": "http://rpg-api.com/icons/icon-127.png"},
+  {"name": "Cloak", "imageUrl": "http://rpg-api.com/icons/icon-126.png"},
+  {"name": "Leather Pouch", "imageUrl": "http://rpg-api.com/icons/icon-137.png"},
+  {"name": "Ring", "imageUrl": "http://rpg-api.com/icons/icon-132.png"},
+  {"name": "Diamond Ring", "imageUrl": "http://rpg-api.com/icons/icon-133.png"},
+  {"name": "Necklace", "imageUrl": "http://rpg-api.com/icons/icon-134.png"},
+  {"name": "Prayer Beads", "imageUrl": "http://rpg-api.com/icons/icon-135.png"},
+  {"name": "Tribal Necklace", "imageUrl": "http://rpg-api.com/icons/icon-136.png"}
 ]

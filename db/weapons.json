@@ -1,147 +1,147 @@
 [
   {
     "name": "Fist",
-    "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-95.png",
+    "imageUrl": "http://rpg-api.com/icons/icon-95.png",
     "twoHanded": false,
     "ranged": false,
     "attack": 0
   },
   {
     "name": "Wooden Waster",
-    "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-80.png",
+    "imageUrl": "http://rpg-api.com/icons/icon-80.png",
     "twoHanded": false,
     "ranged": false,
     "attack": 5
   },
   {
     "name": "Staff",
-    "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-103.png",
+    "imageUrl": "http://rpg-api.com/icons/icon-103.png",
     "twoHanded": true,
     "ranged": false,
     "attack": 10
   },
   {
     "name": "Spiked Club",
-    "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-93.png",
+    "imageUrl": "http://rpg-api.com/icons/icon-93.png",
     "twoHanded": false,
     "ranged": false,
     "attack": 20
   },
   {
     "name": "Dagger",
-    "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-86.png",
+    "imageUrl": "http://rpg-api.com/icons/icon-86.png",
     "twoHanded": false,
     "ranged": false,
     "attack": 10
   },
   {
     "name": "Broad Dagger",
-    "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-87.png",
+    "imageUrl": "http://rpg-api.com/icons/icon-87.png",
     "twoHanded": false,
     "ranged": false,
     "attack": 20
   },
   {
     "name": "Sai",
-    "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-88.png",
+    "imageUrl": "http://rpg-api.com/icons/icon-88.png",
     "twoHanded": false,
     "ranged": false,
     "attack": 20
   },
   {
     "name": "Longsword",
-    "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-81.png",
+    "imageUrl": "http://rpg-api.com/icons/icon-81.png",
     "twoHanded": true,
     "ranged": false,
     "attack": 15
   },
   {
     "name": "Katana",
-    "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-83.png",
+    "imageUrl": "http://rpg-api.com/icons/icon-83.png",
     "twoHanded": true,
     "ranged": false,
     "attack": 20
   },
   {
     "name": "Gladius",
-    "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-84.png",
+    "imageUrl": "http://rpg-api.com/icons/icon-84.png",
     "twoHanded": false,
     "ranged": false,
     "attack": 25
   },
   {
     "name": "Saber",
-    "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-85.png",
+    "imageUrl": "http://rpg-api.com/icons/icon-85.png",
     "twoHanded": false,
     "ranged": false,
     "attack": 30
   },
   {
     "name": "Enchanted Sword",
-    "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-82.png",
+    "imageUrl": "http://rpg-api.com/icons/icon-82.png",
     "ranged": false,
     "twoHanded": false,
     "attack": 40
   },
   {
     "name": "Dual Swords",
-    "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-89.png",
+    "imageUrl": "http://rpg-api.com/icons/icon-89.png",
     "twoHanded": true,
     "ranged": false,
     "attack": 50
   },
   {
     "name": "War Axe",
-    "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-90.png",
+    "imageUrl": "http://rpg-api.com/icons/icon-90.png",
     "twoHanded": false,
     "ranged": false,
     "attack": 25
   },
   {
     "name": "Battle Axe",
-    "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-91.png",
+    "imageUrl": "http://rpg-api.com/icons/icon-91.png",
     "twoHanded": true,
     "ranged": false,
     "attack": 50
   },
   {
     "name": "Whip",
-    "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-94.png",
+    "imageUrl": "http://rpg-api.com/icons/icon-94.png",
     "twoHanded": false,
     "ranged": false,
     "attack": 20
   },
   {
     "name": "Flail",
-    "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-92.png",
+    "imageUrl": "http://rpg-api.com/icons/icon-92.png",
     "twoHanded": false,
     "ranged": false,
     "attack": 25
   },
   {
     "name": "Boomerang",
-    "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-102.png",
+    "imageUrl": "http://rpg-api.com/icons/icon-102.png",
     "twoHanded": false,
     "ranged": true,
     "attack": 10
   },
   {
     "name": "Slingshot",
-    "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-101.png",
+    "imageUrl": "http://rpg-api.com/icons/icon-101.png",
     "twoHanded": true,
     "ranged": true,
     "attack": 20
   },
   {
     "name": "Bow",
-    "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-99.png",
+    "imageUrl": "http://rpg-api.com/icons/icon-99.png",
     "twoHanded": true,
     "ranged": true,
     "attack": 30
   },
   {
     "name": "Crossbow",
-    "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-100.png",
+    "imageUrl": "http://rpg-api.com/icons/icon-100.png",
     "twoHanded": true,
     "ranged": true,
     "attack": 40
@@ -149,28 +149,28 @@
 
   {
     "name": "Water Staff",
-    "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-104.png",
+    "imageUrl": "http://rpg-api.com/icons/icon-104.png",
     "twoHanded": false,
     "ranged": true,
     "attack": null
   },
   {
     "name": "Fire Staff",
-    "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-105.png",
+    "imageUrl": "http://rpg-api.com/icons/icon-105.png",
     "twoHanded": false,
     "ranged": true,
     "attack": null
   },
   {
     "name": "Earth Staff",
-    "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-106.png",
+    "imageUrl": "http://rpg-api.com/icons/icon-106.png",
     "twoHanded": false,
     "ranged": true,
     "attack": null
   },
   {
     "name": "Air Staff",
-    "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-107.png",
+    "imageUrl": "http://rpg-api.com/icons/icon-107.png",
     "twoHanded": false,
     "ranged": true,
     "attack": null

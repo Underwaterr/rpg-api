@@ -1,132 +1,132 @@
 [
   {
     "name": "Cap",
-    "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-112.png",
+    "imageUrl": "http://rpg-api.com/icons/icon-112.png",
     "type": "head",
     "defense": 10
   },
   {
     "name": "Leather Helm",
-    "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-114.png",
+    "imageUrl": "http://rpg-api.com/icons/icon-114.png",
     "type": "head",
     "defense": 20
   },
   {
     "name": "Steel Helm",
-    "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-113.png",
+    "imageUrl": "http://rpg-api.com/icons/icon-113.png",
     "type": "head",
     "defense": 30
   },
   {
     "name": "Armet",
-    "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-115.png",
+    "imageUrl": "http://rpg-api.com/icons/icon-115.png",
     "type": "head",
     "defense": 40
   },
 
   {
     "name": "Tunic",
-    "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-121.png",
+    "imageUrl": "http://rpg-api.com/icons/icon-121.png",
     "type": "body",
     "defense": 10
   },
   {
     "name": "Dress",
-    "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-125.png",
+    "imageUrl": "http://rpg-api.com/icons/icon-125.png",
     "type": "body",
     "defense": 10
   },
   {
     "name": "Quality Tunic",
-    "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-120.png",
+    "imageUrl": "http://rpg-api.com/icons/icon-120.png",
     "type": "body",
     "defense": 15
   },
   {
     "name": "Leather Armor",
-    "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-118.png",
+    "imageUrl": "http://rpg-api.com/icons/icon-118.png",
     "type": "body",
     "defense": 20
   },
   {
     "name": "Iron Armor",
-    "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-116.png",
+    "imageUrl": "http://rpg-api.com/icons/icon-116.png",
     "type": "body",
     "defense": 30
   },
   {
     "name": "Steel Armor",
-    "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-117.png",
+    "imageUrl": "http://rpg-api.com/icons/icon-117.png",
     "type": "body",
     "defense": 40
   },
   {
     "name": "Plate Armor",
-    "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-119.png",
+    "imageUrl": "http://rpg-api.com/icons/icon-119.png",
     "type": "body",
     "defense": 50
   },
 
   {
     "name": "Boxers",
-    "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-124.png",
+    "imageUrl": "http://rpg-api.com/icons/icon-124.png",
     "type": "legs",
     "defense": 0
   },
   {
     "name": "Shorts",
-    "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-123.png",
+    "imageUrl": "http://rpg-api.com/icons/icon-123.png",
     "type": "legs",
     "defense": 10
   },
   {
     "name": "Trousers",
-    "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-122.png",
+    "imageUrl": "http://rpg-api.com/icons/icon-122.png",
     "type": "legs",
     "defense": 15
   },
 
   {
     "name": "Leather Gauntlet",
-    "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-128.png",
+    "imageUrl": "http://rpg-api.com/icons/icon-128.png",
     "type": "arms",
     "defense": 10
   },
   {
     "name": "Metal Gauntlet",
-    "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-129.png",
+    "imageUrl": "http://rpg-api.com/icons/icon-129.png",
     "type": "arms",
     "defense": 20
   },
 
   {
     "name": "Leather Boots",
-    "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-130.png",
+    "imageUrl": "http://rpg-api.com/icons/icon-130.png",
     "type": "feet",
     "defense": 10
   },
   {
     "name": "Steeltoe Boots",
-    "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-131.png",
+    "imageUrl": "http://rpg-api.com/icons/icon-131.png",
     "type": "feet",
     "defense": 20
   },
 
   {
     "name": "Buckler",
-    "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-96.png",
+    "imageUrl": "http://rpg-api.com/icons/icon-96.png",
     "type": "hand",
     "defense": 20
   },
   {
     "name": "Wood Shield",
-    "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-97.png",
+    "imageUrl": "http://rpg-api.com/icons/icon-97.png",
     "type": "hand",
     "defense": 30
   },
   {
     "name": "Metal Shield",
-    "imageUrl": "https://classy-breakfast.herokuapp.com/icons/icon-98.png",
+    "imageUrl": "http://rpg-api.com/icons/icon-98.png",
     "type": "hand",
     "defense": 40
   }
