@@ -2,17 +2,20 @@
 <html lang="en">
 <head>
   <title>RPG API</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
   <h1>RPG API</h1>
-  <p>Your quest for a RESTful API is over!</p>
-  <p>Featuring fun lil graphics, descriptions and stats that don't mean anything.</p>
+  <p>Your quest for a public RESTful API is over!</p>
+  <p>Featuring fun lil graphics, item descriptions and stats that don't mean anything.</p>
   <p>No, this RPG does not actually exist. But it could! </p>
 
   <h2>How to Use</h2>
-  <pre>http://rpg-api.com/armor/</pre>
+  <p>Send HTTP <code>GET</code> requests to <code>http://rpg-api.com/[resource]/[id]</code> where <code>[resource]</code> is one of the available resources and <code>[id]</code> is an optional parameter for getting a specific item.</p>
+  <p>For example, <code class="bash">curl http://rpg-api.com/weapons</code> will get you all weapons and <code class="bash">curl http://rpg-api.com/weapons/19</code> will get you a bow.
 
-  <h2>Endpoints</h2>
+  <h2>Available Resources</h2>
   <ul>
     <li><code>/weapons</code></li>
     <li><code>/armor</code></li>
@@ -20,7 +23,9 @@
   </ul>
 
   <h2> Credits </h2>
-  Graphics by <a href="https://shikashiassets.itch.io/shikashis-fantasy-icons-pack">Shikashi</a> and <a href="https://game-icons.net/">game-icons.net</a> with the <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0 license</a>.
+  <p>Created by <a href="https://tyler.lane.codes/"</a>Tyler Lane</a>.</p>
+  <p>Graphics by <a href="https://shikashiassets.itch.io/shikashis-fantasy-icons-pack">Shikashi</a> and <a href="https://game-icons.net/">game-icons.net</a> with the <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0 license</a>.</p>
+  <p> Font is <em>Prince Valiant</em> by Dieter Steffmann.</p>
 </body>
 </html>
 
