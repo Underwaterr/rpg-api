@@ -1,6 +1,9 @@
 let express = require('express')
 let app = new express()
 
+let cors = require('cors')
+app.use(cors())
+
 let helmet = require('helmet')
 app.use(helmet())
 
