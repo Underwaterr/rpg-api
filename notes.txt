@@ -1,0 +1,5 @@
+https://www.bensnider.com/imagemagick-split-and-join-a-sprite-sheet.html
+
+https://www.cyberciti.biz/tips/how-to-generating-print-range-sequence-of-numbers.html
+
+%s/"imageId": \(.*\),/"imageUrl": "http:\/\/localhost:9000\/icons\/icon-\1.png",/g
